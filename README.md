@@ -1,2 +1,3 @@
 # NBA_code
-this is the readme file
+wining_count is the 1st plot
+wining_prob_Cleveland is the 2nd plot
